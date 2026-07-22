@@ -18,7 +18,7 @@ I'm a Software Engineering student at the University of Washington and an **AI/M
 - 🔭 Currently building: LLM, RAG, and AI agent applications (LangChain, LangGraph, Chroma) as part of my Break Through Tech Fellowship
 - 🌱 Currently deepening: model evaluation, hyperparameter tuning, and workflow orchestration for AI agents
 - 💬 Ask me about: ML pipelines (CRISP-DM), RAG systems, or my time founding a CS club from the ground up
-- 📌 Open to: ML Engineering and Software Engineering internships/new-grad roles — let me know if you have leads!
+- 📌 Open to: ML Engineer new-grad roles — let me know if you have leads!
 
 ---
 ### 🛠 Tech Stack
