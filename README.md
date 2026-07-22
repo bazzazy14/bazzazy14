@@ -44,6 +44,8 @@ Designed a real-time pipeline translating camera input into structured signals f
 **[BatchQuery Image Analysis Chatbot](#)** — JavaScript, HTML, CSS
 Built a web interface for batch image analysis using async parallel requests (`Promise.all`), cutting processing latency 40–60%, connected to external AI inference APIs.
 
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=bazzazy14&layout=compact&hide=html,css)
+
 ---
 
 ### 🏆 Leadership & Achievements
@@ -58,13 +60,6 @@ Built a web interface for batch image analysis using async parallel requests (`P
 ### ☕ Beyond the Code
 
 When I'm not building, I'm probably cafe hopping around Seattle — always on the hunt for the next great cup of coffee or matcha. Cafes are actually where I do a lot of my best focused coding! My current go-to is **He Brews/Our Place**, and I'm currently obsessed with an **oat latte with one pump of vanilla**. ☕✨
-
----
-
-### 📊 GitHub Stats
-
-![Abigail's GitHub stats](https://github-readme-stats.vercel.app/api?username=bazzazy14&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bazzazy14&layout=compact)
 
 ---
 
