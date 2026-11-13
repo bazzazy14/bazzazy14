@@ -63,6 +63,7 @@ Built a multimodal LLM pipeline that extracts structured data from expense docum
 Built a collection of applied ML and generative AI projects covering classification, feature engineering, neural networks, RAG, natural-language-to-SQL, MCP tools, and agentic workflows.
 
 ![Featured Project Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bazzazy14&layout=compact&exclude_repo=my-portfolio,ai-chatbot,world-dishes-database,bazzazy14&hide=html,css&langs_count=6&custom_title=Featured%20Project%20Languages)
+
 ---
 
 ### 🏆 Leadership & Achievements
