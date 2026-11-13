@@ -18,7 +18,7 @@ I'm a Software Engineering student at the University of Washington and an **AI/M
 - 🔭 Currently building: machine learning and AI applications, including a Kickstarter crowdfunding recommendation engine through Break Through Tech AI Studio
 - 🌱 Currently deepening: model evaluation, hyperparameter tuning, and workflow orchestration for AI agents
 - 💬 Ask me about: ML pipelines, feature selection & model evaluation, RAG systems, or founding a CS club from the ground up
-- 📌 Open to: ML Engineer new-grad roles — let me know if you have leads!
+- 📌 Open to: SWE new-grad roles building ML-powered product features, recommendation systems, or AI agents — let me know if you have leads!
 
 ---
 
