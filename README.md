@@ -26,7 +26,7 @@ I'm a Software Engineering student at the University of Washington and an **AI/M
 
 **AI/ML Fellow | Fall 2026**
 
-**Challenge Project: Kickstarter Crowdfunding Recommendation Engine**
+**Challenge Project: [Kickstarter Crowdfunding Recommendation Engine](https://github.com/Break-Through-Tech/Global-Financial-Firm-1A-kickstarter-crowdfunding-recommendation-engine/blob/main/README.md)**
 
 - Collaborating on an end-to-end machine learning project using ~46K historical Kickstarter campaigns to predict campaign success and translate model insights into actionable recommendations for creators.
 - Built data cleaning, EDA, feature engineering, and model-preparation workflows in Python using pandas and scikit-learn, including missing-value handling, categorical cleaning, stratified train/test splitting, scaling, and one-hot encoding.
@@ -51,16 +51,16 @@ Tech: Python · pandas · NumPy · scikit-learn · Jupyter · Matplotlib · Git 
 
 ---
 
-### 🚀 Other Projects
+### 🚀 Projects
 
 **[URL Shortener](#)** — Python, Flask, SQLite, Threading
 Diagnosed and fixed a race condition causing duplicate short codes using `threading.Lock()`, validated with a 25-concurrent-request test. Built a Flask backend with persistent storage and both a web form and JSON REST API.
 
-**[Recycling Separator System](#)** — C++, Logic Circuits, Assembly, Systems Design
-Designed a real-time pipeline translating camera input into structured signals for object classification, using NAND-based logic circuits and low-level assembly for classification and system control.
+**[Multimodal Document Intelligence](https://github.com/bazzazy14/multimodal-document-intelligence)** — Python, OpenAI API, Pandas, Pillow, Jupyter  
+Built a multimodal LLM pipeline that extracts structured data from expense documents, validates results against the original images, and analyzes spending patterns with independent financial checks in Pandas.
 
-**[BatchQuery Image Analysis Chatbot](#)** — JavaScript, HTML, CSS
-Built a web interface for batch image analysis using async parallel requests (`Promise.all`), cutting processing latency 40–60%, connected to external AI inference APIs.
+**[Applied ML & AI Portfolio](https://github.com/bazzazy14/ml-life-cycle)** — Python, scikit-learn, TensorFlow, LangChain, OpenAI API  
+Built a collection of applied ML and generative AI projects covering classification, feature engineering, neural networks, RAG, natural-language-to-SQL, MCP tools, and agentic workflows.
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=bazzazy14&layout=compact&hide=html,css)
 
