@@ -25,20 +25,14 @@ I'm a Software Engineering student at the University of Washington and an **AI/M
 ### 🤖 Break Through Tech AI Studio
 
 **AI/ML Fellow | Fall 2026**
-Challenge Project: Kickstarter Crowdfunding Recommendation Engine
+**Challenge Project: Kickstarter Crowdfunding Recommendation Engine**
 
 - Collaborating on an end-to-end machine learning project using ~46K historical Kickstarter campaigns to predict campaign success and translate model insights into actionable recommendations for creators.
-
 - Built data cleaning, EDA, feature engineering, and model-preparation workflows in Python using pandas and scikit-learn, including missing-value handling, categorical cleaning, stratified train/test splitting, scaling, and one-hot encoding.
-
 - Analyzed how campaign duration, category, and subcategory were associated with success and used those findings to guide feature selection for modeling.
-
 - Built and evaluated a Logistic Regression baseline using Accuracy, Precision, Recall, F1 Score, ROC-AUC, and a confusion matrix.
-
 - Designed a controlled feature-selection experiment comparing 4 feature sets; the selected feature set improved Logistic Regression accuracy from 68.6% to 80.3% and ROC-AUC from 0.746 to 0.880.
-
 - Evaluated high-cardinality and data-leakage tradeoffs, finding that adding city increased the encoded feature space from 119 to nearly 3,000 features for minimal additional performance.
-
 - Collaborated through Git branches, pull requests, code reviews, and GitHub Projects, and helped organize and lead each milestone by breaking modeling work into tasks, dependencies, and target deadlines.
 
 Tech: Python · pandas · NumPy · scikit-learn · Jupyter · Matplotlib · Git · GitHub
